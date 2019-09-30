@@ -15,6 +15,7 @@ https://github.com/reddit/reddit/wiki/JSON
 ## Requirements:
 
 * Show a list of the posts in the r/pics subreddit.
+* Display enough posts to fill then current viewport, then load additional posts as the user scrolls down on the page (infinite scrolling).
 * Each post must show the following data: thumbnail image (if present), title, author, total number of votes (score), number of comments and date of creation.
 * Example layout:
 
